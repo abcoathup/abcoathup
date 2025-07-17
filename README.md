@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Editor: [Week in Ethereum News](https://weekinethereumnews.com/)
+- 🔭 Guild coordinator: [Dev Tools Guild](https://devtoolsguild.com/)
 - 🐎 Creator: [Block Horses](https://opensea.io/collection/blockhorses)
-- 🐦 Twitter: [twitter.com/abcoathup](https://twitter.com/abcoathup)
+- 🐦 Socials: [x.com/abcoathup](https://x.com/abcoathup) & [farcaster.xyz/abcoathup](https://farcaster.xyz/abcoathup)
 - 😄 Pronouns: he/him
-- ⚡ Formerly Community Manager at [OpenZeppelin](https://github.com/OpenZeppelin)
+- ⚡ Former Editor at [Week in Ethereum News](https://weekinethereumnews.com) and Community Manager at [OpenZeppelin](https://github.com/OpenZeppelin)
